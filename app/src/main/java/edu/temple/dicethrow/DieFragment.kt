@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import kotlin.random.Random
-val DIESIDE = "sidenumber"
+const val DIESIDE = "sidenumber"
 class DieFragment : Fragment() {
 
 
